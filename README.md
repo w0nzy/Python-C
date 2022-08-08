@@ -2,7 +2,7 @@
 * Compiling
 ```sh
 gcc -shared -o main.so main.cpp
-
+```
 * Executing
 ```python
 >>> import ctypes
